@@ -93,16 +93,20 @@ footer{
 
 .container-footer{
     width: 75%;
-    padding: 30px 100pxx;
+    margin: auto;
+    padding: 30px 20px 20px;
+    display: flex;
+    justify-content: space-around;
 }
 
 .section1-footer{
-    
+    margin-top: 15px;
 }
 .section2-footer{
     display: flex;
-    justify-content: flex-end;
+    justify-content: space-between;
+
 }
 .column-footer{
-    padding-right: 100px;
+    padding-left: 115px;
 }
